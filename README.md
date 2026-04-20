@@ -3,10 +3,10 @@
 # Prácticas de Programación Orientada a Objetos en Java
 
 ## TEMAS con SCANNER:
-* 1.	Métodos void 
-* 2.	Métodos con return 
-* 3.	Sobrecarga de métodos - Constructor
-* 4.	Get ,Set,Validaciones 
+1.	Métodos void 
+2.	Métodos con return 
+3.	Sobrecarga de métodos - Constructor
+4.	Get ,Set,Validaciones 
 
 ## Ejercicios
 1.  **Estudiante:** Registro básico y visualización de datos personales usando métodos `void`.
